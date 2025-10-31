@@ -22,10 +22,7 @@
   - [Nivel 7](#nivel-7)
   - [Nivel 8](#nivel-8)
   - [Nivel 9](#nivel-9)
-  - [Nivel 10 (nota)](#nivel-10-nota)
-- [Recomendaciones finales](#-recomendaciones-finales)
-- [Metadatos por laboratorio](#-metadatos-por-laboratorio)
-
+  - [Nivel 10](#nivel-10)
 ---
 
 # 🔧 INSTRUCCIONES GENERALES
