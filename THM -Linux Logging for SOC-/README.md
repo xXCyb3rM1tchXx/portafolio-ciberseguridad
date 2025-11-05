@@ -136,4 +136,4 @@ NAABU_SCANNED_RANGE: CTF9_network range
 ---
 
 ## Annexes
-- `evidences/` — Screenshots and `.txt` outputs.  
+- `evidences/` — Screenshots
