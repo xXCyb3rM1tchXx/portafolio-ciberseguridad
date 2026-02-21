@@ -21,7 +21,6 @@
   - [Evidencia 15 – BypassUAC EventVWR](#evidencia-15--exploit-bypassuac_eventvwr)
   - [Evidencia 16 – Migración a spoolsv-y-system](#evidencia-16--migración-a-proceso-spoolsvexe-y-obtención-de-system)
   - [Evidencia 17 – Hashdump, Kiwi-mimikatz creds_all](#evidencia-17--dump-de-hashes-con-hashdump-carga-de-kiwi-y-extracción-de-credenciales-con-creds_all)
-  - [Evidencia 18 – ]
 - [6. Tabla de comandos]
 - [7. MITRE ATT&CK]
 - [8. Banderas]
