@@ -15,7 +15,7 @@
 
 ## 1. Portada
 - **Título:** Reto 6 - Steel Mountain
-- **Autor:** Mtro. Mitchell Correa - Consultor en Ciberseguridad Ofensiva
+- **Autor:** Mtro. Mitchell Correa - Consultor en Ciberseguridad Ofensiva(#www.linkedin.com/in/mitchell-correa)
 - **Fecha:** 11/DIC/2025
 - **Plataforma:** THM **(PARTE DE LA CERTIFICACION PMJ)**
 - **Nivel de confidencialidad:** EDUCATIVO
